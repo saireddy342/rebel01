@@ -237,10 +237,10 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """<b>{mention} -🎬 {file_name}</b>
+    CAPTION = """<b>{file_name}</b>
 
-<b><blockquote>📦 Size:-  <code>{file_size}</code></blockquote></b>
-𝖩𝗈𝗂𝗇 ➥ 「<a href="https://t.me/pakhirrobot/">ᴘᴀᴋʜɪʀ ʙᴏᴛ</a>」</b>"""
+<b><blockquote> Size:- {file_size}</blockquote></b>
+𝖩𝗈𝗂𝗇 ➥ 「<a href="https://t.me/pakhirrobot">ᴘᴀᴋʜɪʀ ʙᴏᴛ</a>」</b>"""
 
     
     MOVIE_UPDATE_NOTIFY_TXT = """

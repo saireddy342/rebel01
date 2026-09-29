@@ -237,12 +237,9 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """<b>@RebelSearchBot - {file_name}
+    CAPTION = """<b>{mention} -🎬 {file_name}</b>
 
-<blockquote>{quality} 
-{languages}</blockquote>
-<blockquote>
-Size :- {file_size}</blockquote>
+<b><blockquote>📦 Size:-  <code>{file_size}</code></blockquote></b>
 𝖩𝗈𝗂𝗇 ➥ 「<a href="https://t.me/pakhirrobot/">ᴘᴀᴋʜɪʀ ʙᴏᴛ</a>」</b>"""
 
     

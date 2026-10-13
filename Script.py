@@ -228,9 +228,9 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : @RebelSearchBot- {file_name}</b>
-    <b><blockquote>Audio:- Telugu + Multi Audio</blockquote></b>
-<b><blockquote> Size:- {file_size}</blockquote></b>
+    CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : @RebelSearchBot - {file_name}</b>
+<b><blockquote>Audio :- Telugu + Multi Audio</blockquote></b>
+<b><blockquote> Size :- {file_size}</blockquote></b>
 <b>𝖩𝗈𝗂𝗇 ➥ 「<a href="https://t.me/pakhirrobot">ᴘᴀᴋʜɪʀ ʙᴏᴛ</a>」</b>"""
     
     MOVIE_UPDATE_NOTIFY_TXT = """

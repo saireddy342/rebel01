@@ -205,6 +205,7 @@ BAD_WORDS = {
     "New"
     "toonflex"
     "Movies"
+    "Files"
 } # Set of bad words to filter out
    
 

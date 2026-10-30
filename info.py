@@ -196,6 +196,15 @@ BAD_WORDS = {
     "villa",
     "tg",
     "original"
+    "TollyNexus"
+    "Teluguflixx"
+    "mj"
+    "link"
+    "4u"
+    "2u"
+    "New"
+    "toonflex"
+    "Movies"
 } # Set of bad words to filter out
    
 

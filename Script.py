@@ -234,19 +234,17 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
 <b>𝖩𝗈𝗂𝗇 ➥ 「<a href="https://t.me/pakhirrobot">ᴘᴀᴋʜɪʀ ʙᴏᴛ</a>」</b>"""
     
     MOVIE_UPDATE_NOTIFY_TXT = """
-<b><a href="{poster_url}">📥</a><a href="{imdb_url}">New {tag} Added</a></b>
+<b><a href="{poster_url}">📥</a><a href="{imdb_url}">New {tag} Files Added</a></b>
 
-<blockquote>✨ ᴛɪᴛʟᴇ : <code>{filename}</code>
-
+<blockquote>✨ ᴛɪᴛʟᴇ : <b><code>{filename}</code></b>
 
 🎭 ɢᴇɴʀᴇs : <b>{genres}</b>
 📺 ᴏᴛᴛ        : <b>{ott}</b>
 🎞️ ǫᴜᴀʟɪᴛʏ : <b>{quality}</b>
 🎧 ᴀᴜᴅɪᴏ    : <b>{language}</b>
 🔥 ʀᴀᴛɪɴɢ   : <b>{rating}</b>
-{episodes}
+              {episodes}
 </blockquote>
-
 
 🔍 <b>Sᴇᴀʀᴄʜ →</b> {search_link}
 """

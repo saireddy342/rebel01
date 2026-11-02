@@ -228,7 +228,7 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : @RebelSearchBot - {file_name}</b>{quality} {language}
+    CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : @RebelSearchBot - {file_name} -  (☝◞‸◟)☞ [ 𝙿𝙰𝙺𝙷𝙸𝚁 𝙱𝙾𝚃 ]Join :@pakhirrobot Esub.mkv</b>
 <b><blockquote>Audio :- Telugu + Multi Audio</blockquote></b>
 <b><blockquote> Size :- {file_size}</blockquote></b>
 <b>𝖩𝗈𝗂𝗇 ➥ 「<a href="https://t.me/pakhirrobot">ᴘᴀᴋʜɪʀ ʙᴏᴛ</a>」</b>"""

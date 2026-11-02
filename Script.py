@@ -228,7 +228,7 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : @RebelSearchBot - {file_name}</b>
+    CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : @RebelSearchBot - {file_name}</b>{quality} {language}
 <b><blockquote>Audio :- Telugu + Multi Audio</blockquote></b>
 <b><blockquote> Size :- {file_size}</blockquote></b>
 <b>𝖩𝗈𝗂𝗇 ➥ 「<a href="https://t.me/pakhirrobot">ᴘᴀᴋʜɪʀ ʙᴏᴛ</a>」</b>"""
@@ -236,7 +236,7 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     MOVIE_UPDATE_NOTIFY_TXT = """
 <b><a href="{poster_url}">📥</a><a href="{imdb_url}">New {tag} Files Added</a></b>
 
-<blockquote><b>✨ ᴛɪᴛʟᴇ :<code>{filename}</code></b>
+<blockquote><b>✨ ᴛɪᴛʟᴇ : <code>{filename}</code></b>
 
 🎭 ɢᴇɴʀᴇs : <b>{genres}</b>
 📺 ᴏᴛᴛ        : <b>{ott}</b>

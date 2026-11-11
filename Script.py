@@ -163,7 +163,7 @@ Nᴀᴍᴇ - {}
 
     DEL_MSG = """⚠️ ᴛʜɪꜱ ᴍᴏᴠɪᴇ ꜰɪʟᴇ/ᴠɪᴅᴇᴏ ᴡɪʟʟ ʙᴇ ᴅᴇʟᴇᴛᴇᴅ ɪɴ <b><u><code>{}</code></u></b>
 
-<blockquote expandable><b><i>ᴘʟᴇᴀꜱᴇ ꜰᴏʀᴡᴀʀᴅ ᴛʜɪꜱ ꜰɪʟᴇ ᴛᴏ ꜱᴏᴍᴇᴡʜᴇʀᴇ ᴇʟꜱᴇ & ꜱᴛᴀʀᴛ ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ ᴛʜᴇʀᴇ</i></b></blockquote>"""
+<blockquote expandable><b><i>ᴘʟᴇᴀꜱᴇ ꜰᴏʀᴡᴀʀᴅ ᴛʜɪꜱ ꜰɪʟᴇ ᴛᴏ sᴀᴠᴇᴅ ᴍᴇssᴀɢᴇs ᴏʀ ꜱᴏᴍᴇᴡʜᴇʀᴇ ᴇʟꜱᴇ & ꜱᴛᴀʀᴛ ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ ᴛʜᴇʀᴇ</i></b></blockquote>"""
 
 
 
@@ -179,7 +179,7 @@ Nᴀᴍᴇ - {}
 
 ⚜️ ᴇxᴀᴍᴘʟᴇ : Loki S01 or Loki S01E04 or Lucifer S03E24
 
-🚯 ᴅᴏɴᴛ ᴜꜱᴇ ➠ ':(!,./)</blockquote></b>"""
+🚯 ᴅᴏɴᴛ ᴜꜱᴇ symbols ➠ ':(!,./)</blockquote></b>"""
     
     I_CUD_NT = """<b><blockquote>ɪ ᴄᴏᴜʟᴅɴ'ᴛ ꜰɪɴᴅ ᴀɴʏ ᴍᴏᴠɪᴇ ʀᴇʟᴀᴛᴇᴅ ᴛᴏ {}.
 
@@ -228,7 +228,7 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : @RebelSearchBot - {file_name} -  (☝◞‸◟)☞ [ 𝙿𝙰𝙺𝙷𝙸𝚁 𝙱𝙾𝚃 ]Join :@pakhirrobot Esub.mkv</b>
+    CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : @RebelSearchBot - {f_caption} -  (☝◞‸◟)☞ [ 𝙿𝙰𝙺𝙷𝙸𝚁 𝙱𝙾𝚃 ]Join :@pakhirrobot Esub.mkv</b>
 <b><blockquote>Audio :- Telugu + Multi Audio</blockquote></b>
 <b><blockquote> Size :- {file_size}</blockquote></b>
 <b>𝖩𝗈𝗂𝗇 ➥ 「<a href="https://t.me/pakhirrobot">ᴘᴀᴋʜɪʀ ʙᴏᴛ</a>」</b>"""
@@ -375,7 +375,7 @@ sʜᴏᴡɴ ɪɴ : {remaining_seconds} <i>sᴇᴄ</i>⚡️
     FREE_TXT = """<b>👋 ʜᴇʏ {},
     
 🎉 <u>ꜰʀᴇᴇ ᴛʀɪᴀʟ</u> 🎉
-❗ ᴏɴʟʏ ꜰᴏʀ 12 Hᴏᴜʀꜱ 
+❗ ᴏɴʟʏ ꜰᴏʀ 5 Minutes 
  
 ○ ɴᴏ ɴᴇᴇᴅ ᴛᴏ ᴏᴘᴇɴ ʟɪɴᴋꜱ
 ○ ᴍᴜʟᴛɪ-ᴘʟᴀʏᴇʀ sᴛʀᴇᴀᴍɪɴɢ ʟɪɴᴋs
